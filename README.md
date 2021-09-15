@@ -1,4 +1,4 @@
-# Fire Video Segmentation Dataset
+# Fire Segmentation Video Dataset
 This Fire Video Segmentation Dataset was used on "Real-Time Fire Detection Based on Color-Motion Feature for Video Surveillance System" by Wahyono, Faisal Dharma Adhinata, Gamma Kosala, Agus Harjoko, Andi Dharmawan, and Kang Hyun Jo, (In Review) 2021. 
 
 This work was supported by the Ministry of Education Culture, Research and Technology, Republic of Indonesia under World Class Research (WCR) Grant 111/E4.1/AK.04.PT/2021 and 4506/UN1/DITLIT/DIT-LIT/PT/2021.  
@@ -6,9 +6,9 @@ This work was supported by the Ministry of Education Culture, Research and Techn
 ## Overview
 This dataset provides fire segmentation data on 12 common fire classification video. This dataset was obtained by per-frame, manual hand annotation with total of 2,684 annotated frames.
 
-The original raw video data was obtained from A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014. We provide seamless integration of the original data (which not included in this repository) to ours with download_extract_dataset.py script, that download, then extract the original dataset, and modified it to fit our environment settings. For tools, we use VGG Image Annotator version 2.0.11. with *.csv as export.
+The original raw video data was obtained from [A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips). We provide seamless integration of the original data (**which are not included in this repository**) to ours with [download_extract_dataset.py](./download_extract_dataset.py) script, that download, then extract the original dataset, and modified it to fit our environment settings. For tools, we use VGG Image Annotator version 2.0.11. with *.csv as export.
 
-## Video Annotation Info Table
+## Fire Segmentation Video Annotation Information Table
 
 | Fire   Segmentation Video | Visifire Dataset          | FPS | Total Frame |
 |---------------------------|---------------------------|-----|-------------|
