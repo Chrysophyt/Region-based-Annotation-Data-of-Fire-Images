@@ -1,5 +1,5 @@
 # This script use VGG Image Annotator Tools with *.csv export type
-# You can findmore about the tools here https://www.robots.ox.ac.uk/~vgg/software/via/
+# You can find more about the tools here https://www.robots.ox.ac.uk/~vgg/software/via/
 # Load our project file and export it to *.csv, or other such as COCO json format.
 
 #Params
