@@ -10,7 +10,7 @@ This work was supported by the Ministry of Education Culture, Research and Techn
 ## Overview
 This dataset provides fire segmentation data on 12 common fire classification video. This dataset was obtained by per-frame, manual hand annotation with total of 2,684 annotated frames.
 
-The original raw video data was obtained from [A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips). We provide seamless integration of the original data (**which are not included in this repository**) to ours, with [download_extract_dataset.py](./download_extract_dataset.py) script, that download, then extract the original dataset, and modified it to fit our environment settings. To open our annotation project files, we use [VIA (VGG Image Annotator)](https://www.robots.ox.ac.uk/~vgg/software/via/) version 2.0.11.
+The original raw video data was obtained from [A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips). We provide seamless integration of the original data (**which are not included in this repository**) to ours, with [download_vid2img.py](./Scripts/download_vid2img.py) script, that download, then extract the original dataset, and modified it to fit our environment settings. To open our annotation project files, we use [VIA (VGG Image Annotator)](https://www.robots.ox.ac.uk/~vgg/software/via/) version 2.0.10.
 
 ## Fire Segmentation Video Annotation Information Table
 
@@ -33,10 +33,10 @@ The original raw video data was obtained from [A. E. Çetin. “Computer Vision 
 ## Usage Example
 | VisiFire Video (A. E. Çetin, 2014) | Fire Segmentation Video Ground Truth      | Example Implementation (Wahyono et al., 2021) |
 | ----------- | ----------- | ----------- |
-| ![Alt Text](./GitExample/Video01.gif)      | ![Alt Text](./GitExample/Video01_GT.gif)       | ![Alt Text](./GitExample/Video01_ML.gif)       |
-| ![Alt Text](./GitExample/Video02.gif)      | ![Alt Text](./GitExample/Video02_GT.gif)       | ![Alt Text](./GitExample/Video02_ML.gif)       |
-| ![Alt Text](./GitExample/Video04.gif)      | ![Alt Text](./GitExample/Video04_GT.gif)       | ![Alt Text](./GitExample/Video04_ML.gif)       |
-| ![Alt Text](./GitExample/Video05.gif)      | ![Alt Text](./GitExample/Video05_GT.gif)       | ![Alt Text](./GitExample/Video05_ML.gif)       |
+| ![Alt Text](./README/Video01.gif)      | ![Alt Text](./README/Video01_GT.gif)       | ![Alt Text](./README/Video01_ML.gif)       |
+| ![Alt Text](./README/Video02.gif)      | ![Alt Text](./README/Video02_GT.gif)       | ![Alt Text](./README/Video02_ML.gif)       |
+| ![Alt Text](./README/Video04.gif)      | ![Alt Text](./README/Video04_GT.gif)       | ![Alt Text](./README/Video04_ML.gif)       |
+| ![Alt Text](./README/Video05.gif)      | ![Alt Text](./README/Video05_GT.gif)       | ![Alt Text](./README/Video05_ML.gif)       |
 
 ## Requirements
 

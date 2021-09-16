@@ -5,7 +5,7 @@
 #Params
 Y_LEN, X_LEN = (400,256)
 FILENAME = 'Video01_GT_'
-CSV_FILE = 'Video01_csv.csv' 
+CSV_FILE = 'Video01_GT.csv' 
 
 #Parse csv data
 import csv
