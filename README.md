@@ -12,7 +12,7 @@ This dataset provides fire segmentation data on 12 common fire classification vi
 
 The original raw video data was obtained from [A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips). We provide seamless integration of the original data (**which are not included in this repository**) to ours, with [download_vid2img.py](./Scripts/download_vid2img.py) script, that download, then extract the original dataset, and modified it to fit our environment settings. To open our annotation project files, we use [VIA (VGG Image Annotator)](https://www.robots.ox.ac.uk/~vgg/software/via/) version 2.0.10.
 
-## Fire Segmentation Video Annotation Information Table
+## Fire Segmentation Video Annotation Specification Table
 
 | Fire   Segmentation Video | Visifire Dataset          | FPS | Total Frame |
 |---------------------------|---------------------------|-----|-------------|
@@ -31,7 +31,7 @@ The original raw video data was obtained from [A. E. Çetin. “Computer Vision 
 
 
 ## Usage Example
-| VisiFire Video (A. E. Çetin, 2014) | Fire Segmentation Video Ground Truth      | Example Implementation (Wahyono et al., 2021) |
+| VisiFire Video (A. E. Çetin, 2014) | Fire Segmentation Video Ground Truth      | Fire Detection Based on Color-Motion (Wahyono et al., 2021) |
 | ----------- | ----------- | ----------- |
 | ![Alt Text](./README/Video01.gif)      | ![Alt Text](./README/Video01_GT.gif)       | ![Alt Text](./README/Video01_ML.gif)       |
 | ![Alt Text](./README/Video02.gif)      | ![Alt Text](./README/Video02_GT.gif)       | ![Alt Text](./README/Video02_ML.gif)       |
