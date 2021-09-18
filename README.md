@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/406580603.svg)](https://zenodo.org/badge/latestdoi/406580603)
+
 # Fire Segmentation Video Dataset
 This Fire Segmentation Video Dataset was used on
 
