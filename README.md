@@ -1,4 +1,8 @@
+
+[![DOI](https://zenodo.org/badge/406580603.svg)](https://zenodo.org/badge/latestdoi/406580603)
+
 # Fire Video Segmentation Annotation on VisiFire Dataset 
+
 This Fire Segmentation Video Dataset was used on
 
 **Real-Time Fire Detection Based on Color-Motion Feature for Video Surveillance System**\
