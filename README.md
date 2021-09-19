@@ -1,4 +1,4 @@
-# Fire Segmentation Video Dataset
+# Fire Video Segmentation Annotation on VisiFire Dataset 
 This Fire Segmentation Video Dataset was used on
 
 **Real-Time Fire Detection Based on Color-Motion Feature for Video Surveillance System**\
@@ -10,9 +10,9 @@ This work was supported by the Ministry of Education Culture, Research and Techn
 ## Overview
 This dataset provides fire segmentation data on 12 common fire classification video. This dataset was obtained by per-frame, manual hand annotation with total of 2,684 annotated frames.
 
-The original raw video data was obtained from [A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips). We provide seamless integration of the original data (**which are not included in this repository**) to ours, with [download_vid2img.py](./Scripts/download_vid2img.py) script, that download, then extract the original dataset, and modified it to fit our environment settings. To open our annotation project files, we use [VIA (VGG Image Annotator)](https://www.robots.ox.ac.uk/~vgg/software/via/) version 2.0.10.
+The original raw video data was obtained from [A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014](http://signal.ee.bilkent.edu.tr/VisiFire/Demo/FireClips). We provide seamless integration of the original data (which are not included in this repository) to ours, with [download_vid2img.py](./Scripts/download_vid2img.py) script, that download, then extract the original dataset, and modified it to fit our environment settings. To open our annotation project files, we use [VIA (VGG Image Annotator)](https://www.robots.ox.ac.uk/~vgg/software/via/) version 2.0.10.
 
-## Fire Segmentation Video Annotation Specification Table
+## Fire Video Segmentation VisiFire Video origin and specification used.
 
 | Fire   Segmentation Video | Visifire Dataset          | FPS | Total Frame |
 |---------------------------|---------------------------|-----|-------------|
@@ -29,6 +29,10 @@ The original raw video data was obtained from [A. E. Çetin. “Computer Vision 
 | Video11                   | fire1.avi         | 5   | 236         |
 | Video12                   | 40m_PanFire_20060824.avi  | 29.97  | 140         |
 
+## Download VisiFire Dataset
+> python ./Scripts/download_vid2img.py
+
+This command will download the original videos with parameters in the table above, and extract them into each video folder in the dataset automatically.
 
 ## Usage Example
 | VisiFire Video (A. E. Çetin, 2014) | Fire Segmentation Video Ground Truth      | Fire Detection Based on Color-Motion (Wahyono et al., 2021) |
