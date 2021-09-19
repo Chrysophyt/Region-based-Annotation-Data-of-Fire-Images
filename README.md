@@ -3,7 +3,7 @@
 
 # Fire Video Segmentation Annotation on VisiFire Dataset 
 
-This Fire Segmentation Video Dataset was used on
+This Fire Video Segmentation Annotation Dataset was used on
 
 **Real-Time Fire Detection Based on Color-Motion Feature for Video Surveillance System**\
 Wahyono, Faisal Dharma Adhinata, Gamma Kosala, Agus Harjoko, Andi Dharmawan, and Kang Hyun Jo\
