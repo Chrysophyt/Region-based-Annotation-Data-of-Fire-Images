@@ -7,7 +7,7 @@ This Fire Video Segmentation Annotation Dataset was used on
 
 **Real-Time Fire Detection Based on Color-Motion Feature for Video Surveillance System**\
 Wahyono, Faisal Dharma Adhinata, Gamma Kosala, Agus Harjoko, Andi Dharmawan, and Kang Hyun Jo\
-*(Under Review)*, 2021. 
+*(Submitted to IEEE Access)*, 2021. 
 
 This work was supported by the Ministry of Education Culture, Research and Technology, Republic of Indonesia under World Class Research (WCR) Grant 111/E4.1/AK.04.PT/2021 and 4506/UN1/DITLIT/DIT-LIT/PT/2021.  
 
