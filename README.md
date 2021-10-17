@@ -1,4 +1,3 @@
-
 [![DOI](https://zenodo.org/badge/406580603.svg)](https://zenodo.org/badge/latestdoi/406580603)
 
 # Region-based Annotation Data of Fire Images for Intelligent Surveillance System
