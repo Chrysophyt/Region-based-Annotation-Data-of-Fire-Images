@@ -1,9 +1,9 @@
 
 [![DOI](https://zenodo.org/badge/406580603.svg)](https://zenodo.org/badge/latestdoi/406580603)
 
-# Fire Video Segmentation Annotation on VisiFire Dataset 
+# Region-based Annotation Data of Fire Images for Intelligent Surveillance System
 
-This Fire Video Segmentation Annotation Dataset was used on
+This Annotation Dataset was used on
 
 **Real-Time Fire Detection Based on Color-Motion Feature for Video Surveillance System**\
 Wahyono, Faisal Dharma Adhinata, Gamma Kosala, Agus Harjoko, Andi Dharmawan, and Kang Hyun Jo\
@@ -54,6 +54,6 @@ This command will download the original videos with parameters in the table abov
 ## Citations
 If you use the following dataset please do not forget to cite the following:
 
->D. John et al. "Fire Segmentation Video Dataset for Video Surveillance System" DIB *(Under Review)*, 2021.
+> "Region-based Annotation Data of Fire Images for Intelligent Surveillance System" DIB *(Under Review)*, 2021.
 >
 >A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014
