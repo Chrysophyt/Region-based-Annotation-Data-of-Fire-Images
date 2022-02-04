@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/406580603.svg)](https://zenodo.org/badge/latestdoi/406580603)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5893854.svg)](https://doi.org/10.5281/zenodo.5893854)
+
 
 # Region-based Annotation Data of Fire Images for Intelligent Surveillance System
 
@@ -6,7 +7,7 @@ This Annotation Dataset was used on
 
 **Real-Time Fire Detection Based on Color-Motion Feature for Video Surveillance System**\
 Wahyono, Faisal Dharma Adhinata, Gamma Kosala, Agus Harjoko, Andi Dharmawan, and Kang Hyun Jo\
-*(Submitted to IEEE Access)*, 2021. 
+*(In Review MDPI)*, 2021. 
 
 This work was supported by the Ministry of Education Culture, Research and Technology, Republic of Indonesia under World Class Research (WCR) Grant 111/E4.1/AK.04.PT/2021 and 4506/UN1/DITLIT/DIT-LIT/PT/2021.  
 
@@ -52,7 +53,18 @@ This command will download the original videos with parameters in the table abov
 
 ## Citations
 If you use the following dataset please do not forget to cite the following:
+> Wahyono, Dharmawan, A., Harjoko, A., Chrystian, & Adhinata, F. D. (2022). Region-based Annotation Data of Fire Images for Intelligent Surveillance System. Data in Brief, 107925. doi:10.1016/j.dib.2022.107925
+> 
+> A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014
 
-> "Region-based Annotation Data of Fire Images for Intelligent Surveillance System" DIB *(Under Review)*, 2021.
->
->A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014
+BibTeX
+```
+@article{WAHYONO2022107925,
+title = {Region-based Annotation Data of Fire Images for Intelligent Surveillance System},
+journal = {Data in Brief},
+pages = {107925},
+year = {2022},
+doi = {https://doi.org/10.1016/j.dib.2022.107925},
+author = {Wahyono and Andi Dharmawan and Agus Harjoko and  Chrystian and Faisal Dharma Adhinata}
+}
+```
