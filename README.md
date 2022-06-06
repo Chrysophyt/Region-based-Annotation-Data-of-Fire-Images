@@ -7,7 +7,7 @@ This Annotation Dataset was used on
 
 **Real-Time Fire Detection Based on Color-Motion Feature for Video Surveillance System**\
 Wahyono, Faisal Dharma Adhinata, Gamma Kosala, Agus Harjoko, Andi Dharmawan, and Kang Hyun Jo\
-*(In Review MDPI)*, 2021. 
+[MDPI Fire](https://www.mdpi.com/2571-6255/5/1/23), 2022. 
 
 This work was supported by the Ministry of Education Culture, Research and Technology, Republic of Indonesia under World Class Research (WCR) Grant 111/E4.1/AK.04.PT/2021 and 4506/UN1/DITLIT/DIT-LIT/PT/2021.  
 
@@ -55,9 +55,11 @@ This command will download the original videos with parameters in the table abov
 If you use the following dataset please do not forget to cite the following:
 > Wahyono, Dharmawan, A., Harjoko, A., Chrystian, & Adhinata, F. D. (2022). Region-based Annotation Data of Fire Images for Intelligent Surveillance System. Data in Brief, 107925. doi:10.1016/j.dib.2022.107925
 > 
+> Wahyono, Harjoko A, Dharmawan A, Adhinata FD, Kosala G, Jo K-H. Real-Time Forest Fire Detection Framework Based on Artificial Intelligence Using Color Probability Model and Motion Feature Analysis. Fire. 2022; 5(1):23. https://doi.org/10.3390/fire5010023
+> 
 > A. E. Çetin. “Computer Vision Based Fire Detection Dataset.” 2014
 
-BibTeX
+or in BibTeX
 ```
 @article{WAHYONO2022107925,
 title = {Region-based Annotation Data of Fire Images for Intelligent Surveillance System},
@@ -66,5 +68,17 @@ pages = {107925},
 year = {2022},
 doi = {https://doi.org/10.1016/j.dib.2022.107925},
 author = {Wahyono and Andi Dharmawan and Agus Harjoko and  Chrystian and Faisal Dharma Adhinata}
+}
+@Article{fire5010023,
+AUTHOR = {Wahyono and Harjoko, Agus and Dharmawan, Andi and Adhinata, Faisal Dharma and Kosala, Gamma and Jo, Kang-Hyun},
+TITLE = {Real-Time Forest Fire Detection Framework Based on Artificial Intelligence Using Color Probability Model and Motion Feature Analysis},
+JOURNAL = {Fire},
+VOLUME = {5},
+YEAR = {2022},
+NUMBER = {1},
+ARTICLE-NUMBER = {23},
+URL = {https://www.mdpi.com/2571-6255/5/1/23},
+ISSN = {2571-6255},
+DOI = {10.3390/fire5010023}
 }
 ```
